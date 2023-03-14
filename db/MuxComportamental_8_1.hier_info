@@ -1,0 +1,33 @@
+|MuxComportamental_8_1
+Dato[0] => f.DATAB
+Dato[1] => f.DATAB
+Dato[2] => f.DATAB
+Dato[3] => f.DATAB
+Dato[4] => f.DATAB
+Dato[5] => f.DATAB
+Dato[6] => f.DATAB
+Dato[7] => f.DATAA
+selc[0] => Equal0.IN2
+selc[0] => Equal1.IN2
+selc[0] => Equal2.IN1
+selc[0] => Equal3.IN2
+selc[0] => Equal4.IN1
+selc[0] => Equal5.IN2
+selc[0] => Equal6.IN0
+selc[1] => Equal0.IN1
+selc[1] => Equal1.IN1
+selc[1] => Equal2.IN2
+selc[1] => Equal3.IN1
+selc[1] => Equal4.IN0
+selc[1] => Equal5.IN0
+selc[1] => Equal6.IN2
+selc[2] => Equal0.IN0
+selc[2] => Equal1.IN0
+selc[2] => Equal2.IN0
+selc[2] => Equal3.IN0
+selc[2] => Equal4.IN2
+selc[2] => Equal5.IN1
+selc[2] => Equal6.IN1
+f <= f.DB_MAX_OUTPUT_PORT_TYPE
+
+

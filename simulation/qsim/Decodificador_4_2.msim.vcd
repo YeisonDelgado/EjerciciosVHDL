@@ -1,0 +1,226 @@
+$comment
+	File created using the following command:
+		vcd file Decodificador_4_2.msim.vcd -direction
+$end
+$date
+	Tue Mar 14 11:08:47 2023
+$end
+$version
+	ModelSim Version 10.1d
+$end
+$timescale
+	1ps
+$end
+$scope module Decodificador_4_2_vlg_vec_tst $end
+$var reg 4 ! Dato [3:0] $end
+$var wire 1 " f [1] $end
+$var wire 1 # f [0] $end
+$var wire 1 $ sampler $end
+$scope module i1 $end
+$var wire 1 % gnd $end
+$var wire 1 & vcc $end
+$var wire 1 ' unknown $end
+$var tri1 1 ( devclrn $end
+$var tri1 1 ) devpor $end
+$var tri1 1 * devoe $end
+$var wire 1 + Dato[0]~input_o $end
+$var wire 1 , f[0]~output_o $end
+$var wire 1 - f[1]~output_o $end
+$var wire 1 . Dato[1]~input_o $end
+$var wire 1 / Dato[3]~input_o $end
+$var wire 1 0 f~0_combout $end
+$var wire 1 1 Dato[2]~input_o $end
+$var wire 1 2 f~1_combout $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+b1 !
+0#
+0"
+x$
+0%
+1&
+x'
+1(
+1)
+1*
+1+
+0,
+0-
+0.
+0/
+00
+01
+02
+$end
+#40000
+b0 !
+0+
+0$
+#80000
+b10 !
+b11 !
+1+
+1.
+1$
+10
+1,
+1#
+#120000
+b10 !
+0+
+0$
+#160000
+b110 !
+b100 !
+b101 !
+1+
+0.
+11
+1$
+00
+12
+0,
+1-
+0#
+1"
+#200000
+b100 !
+0+
+0$
+#240000
+b110 !
+b111 !
+1+
+1.
+1$
+10
+1,
+1#
+#280000
+b110 !
+0+
+0$
+#320000
+b1110 !
+b1010 !
+b1000 !
+b1001 !
+1+
+0.
+01
+1/
+1$
+#360000
+b1000 !
+0+
+0$
+#400000
+b1010 !
+b1011 !
+1+
+1.
+1$
+#440000
+b1010 !
+0+
+0$
+#480000
+b1110 !
+b1100 !
+b1101 !
+1+
+0.
+11
+1$
+#520000
+b1100 !
+0+
+0$
+#560000
+b1110 !
+b1111 !
+1+
+1.
+1$
+#600000
+b1110 !
+0+
+0$
+#640000
+b110 !
+b10 !
+b0 !
+b1 !
+1+
+0.
+01
+0/
+1$
+00
+02
+0,
+0-
+0#
+0"
+#680000
+b0 !
+0+
+0$
+#720000
+b10 !
+b11 !
+1+
+1.
+1$
+10
+1,
+1#
+#760000
+b10 !
+0+
+0$
+#800000
+b110 !
+b100 !
+b101 !
+1+
+0.
+11
+1$
+00
+12
+0,
+1-
+0#
+1"
+#840000
+b100 !
+0+
+0$
+#880000
+b110 !
+b111 !
+1+
+1.
+1$
+10
+1,
+1#
+#920000
+b110 !
+0+
+0$
+#960000
+b1110 !
+b1010 !
+b1000 !
+b1001 !
+1+
+0.
+01
+1/
+1$
+#1000000

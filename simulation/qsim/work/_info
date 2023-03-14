@@ -1,0 +1,245 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\altera\13.1\EjerciciosVHDL\simulation\qsim
+vDecodificador_4_2
+Z1 !s100 [NJLIH]R`]UY5CIh>;jVo3
+Z2 IFGUQ`P9fhiQ[3QhnbSz_B3
+Z3 VUFm?nWMnZ3<5T:4L5mMXk3
+Z4 dC:\altera\13.1\EjerciciosVHDL\simulation\qsim
+Z5 w1678810126
+Z6 8Decodificador_4_2.vo
+Z7 FDecodificador_4_2.vo
+L0 31
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s90 -work|work|Decodificador_4_2.vo|
+Z10 o-work work -O0
+Z11 n@decodificador_4_2
+!i10b 1
+!s85 0
+Z12 !s108 1678810127.304000
+Z13 !s107 Decodificador_4_2.vo|
+!s101 -O0
+vDecodificador_4_2_vlg_check_tst
+!i10b 1
+Z14 !s100 Hdm1?:oa_;]^DTR??4PhL1
+Z15 ITiZ<DQ:n@Ggl8GX:9ZkR>2
+Z16 Vj7G2kBBGIfTY>mMl`zRGd1
+R4
+Z17 w1678810125
+Z18 8Codificador_Wave.vwf.vt
+Z19 FCodificador_Wave.vwf.vt
+L0 57
+R8
+r1
+!s85 0
+31
+Z20 !s108 1678810127.377000
+Z21 !s107 Codificador_Wave.vwf.vt|
+Z22 !s90 -work|work|Codificador_Wave.vwf.vt|
+!s101 -O0
+R10
+Z23 n@decodificador_4_2_vlg_check_tst
+vDecodificador_4_2_vlg_sample_tst
+!i10b 1
+Z24 !s100 _8E5bGPJ^hJOZgPH8=I[k2
+Z25 ISnZ]JbT;Sm2Ao8k;WA<GM1
+Z26 VcWAPJm?OoGX?_2<CN2g9Y3
+R4
+R17
+R18
+R19
+L0 29
+R8
+r1
+!s85 0
+31
+R20
+R21
+R22
+!s101 -O0
+R10
+Z27 n@decodificador_4_2_vlg_sample_tst
+vDecodificador_4_2_vlg_vec_tst
+!i10b 1
+!s100 TJg=Pc_hohlci;C84ES^31
+ILP97^QHf[_a@E0agQmX2h0
+Z28 Vli:nfEm97B1RgdVFD73mg2
+R4
+R17
+R18
+R19
+Z29 L0 169
+R8
+r1
+!s85 0
+31
+R20
+R21
+R22
+!s101 -O0
+R10
+Z30 n@decodificador_4_2_vlg_vec_tst
+vEjercicio2
+Z31 IJL<MO1k0zZiY[Z]Jfl>AU3
+Z32 VSTcSeoiin1IE3Zg5B8AeM2
+R4
+Z33 w1678334604
+Z34 8Ejercicio2.vo
+Z35 FEjercicio2.vo
+L0 31
+R8
+r1
+31
+R10
+Z36 n@ejercicio2
+Z37 !s100 =VTbI?oY9RJfZamai;_ml0
+Z38 !s108 1678334606.655000
+Z39 !s107 Ejercicio2.vo|
+Z40 !s90 -work|work|Ejercicio2.vo|
+!i10b 1
+!s85 0
+!s101 -O0
+vEjercicio2_vlg_check_tst
+Z41 I9?^HhP0d?J;g8^Jk^DX]E2
+Z42 V^Aedi_]:K_a>7_AQa48fk0
+R4
+R33
+Z43 8Waveform.vwf.vt
+Z44 FWaveform.vwf.vt
+L0 59
+R8
+r1
+31
+Z45 !s108 1678334606.744000
+Z46 !s107 Waveform.vwf.vt|
+Z47 !s90 -work|work|Waveform.vwf.vt|
+R10
+Z48 n@ejercicio2_vlg_check_tst
+Z49 !s100 B3=QS6RE?P?=bWlbXbA7l0
+!i10b 1
+!s85 0
+!s101 -O0
+vEjercicio2_vlg_sample_tst
+Z50 Ic^DK8m=5;ind_5UYAD]hc3
+Z51 Vz38WW5Y@_]=B@i4PIA?^>1
+R4
+R33
+R43
+R44
+L0 29
+R8
+r1
+31
+R45
+R46
+R47
+R10
+Z52 n@ejercicio2_vlg_sample_tst
+Z53 !s100 j2EOSN8bm5mFG413:RnbX1
+!i10b 1
+!s85 0
+!s101 -O0
+vEjercicio2_vlg_vec_tst
+Z54 IGAi2ZAZOAWZSGE4QELlP73
+Z55 VXUE<1MIN70Q4akEaA:5_W2
+R4
+R33
+R43
+R44
+Z56 L0 235
+R8
+r1
+31
+R45
+R46
+R47
+R10
+Z57 n@ejercicio2_vlg_vec_tst
+Z58 !s100 U71RJ0bNb]1DZX_5iC;WS0
+!i10b 1
+!s85 0
+!s101 -O0
+vMuxComportamental_8_1
+Z59 !s100 >9D6Si9EX1gke[2kXS5Hd0
+Z60 IM><0QWR:Tel9AdjJGYea<0
+Z61 Vj6R<Vk>11a2K6gjB@kUDU1
+R4
+Z62 w1678772911
+Z63 8MuxComportamental_8_1.vo
+Z64 FMuxComportamental_8_1.vo
+L0 31
+R8
+r1
+31
+Z65 !s90 -work|work|MuxComportamental_8_1.vo|
+R10
+Z66 n@mux@comportamental_8_1
+Z67 !s108 1678772912.373000
+Z68 !s107 MuxComportamental_8_1.vo|
+!i10b 1
+!s85 0
+!s101 -O0
+vMuxComportamental_8_1_vlg_check_tst
+Z69 !s100 >NdX2o_?ZBc[czLDDWA780
+Z70 IDkm>gg7N1iIZof_83VDhh2
+Z71 Vh3d<MbX=Ab[V1Bh66;]]G3
+R4
+Z72 w1678772909
+Z73 8OndaMux_2_1Process.vwf.vt
+Z74 FOndaMux_2_1Process.vwf.vt
+L0 59
+R8
+r1
+31
+Z75 !s108 1678772912.486000
+Z76 !s107 OndaMux_2_1Process.vwf.vt|
+Z77 !s90 -work|work|OndaMux_2_1Process.vwf.vt|
+R10
+Z78 n@mux@comportamental_8_1_vlg_check_tst
+!i10b 1
+!s85 0
+!s101 -O0
+vMuxComportamental_8_1_vlg_sample_tst
+Z79 !s100 Km_Mfm<g=iXim86Y5PZF]1
+Z80 ImmIJ`lIE8jdPa7XE4m45m0
+Z81 VEebH8^jSPU[>iGaSA5_TJ1
+R4
+R72
+R73
+R74
+L0 29
+R8
+r1
+31
+R75
+R76
+R77
+R10
+Z82 n@mux@comportamental_8_1_vlg_sample_tst
+!i10b 1
+!s85 0
+!s101 -O0
+vMuxComportamental_8_1_vlg_vec_tst
+Z83 Il`hkjBWOPX<SDl?DeD?GD0
+Z84 VhDST2KHgTXGN9M5Fd0LRo0
+R4
+R72
+R73
+R74
+Z85 L0 154
+R8
+r1
+31
+R75
+R76
+R77
+R10
+Z86 n@mux@comportamental_8_1_vlg_vec_tst
+Z87 !s100 B9QnJ88c[^aNWZ=f`GfHG3
+!i10b 1
+!s85 0
+!s101 -O0

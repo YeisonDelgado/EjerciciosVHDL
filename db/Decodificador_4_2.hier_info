@@ -1,0 +1,10 @@
+|Decodificador_4_2
+Dato[0] => ~NO_FANOUT~
+Dato[1] => f.IN0
+Dato[2] => f.IN0
+Dato[3] => f.IN1
+Dato[3] => f.IN1
+f[0] <= f.DB_MAX_OUTPUT_PORT_TYPE
+f[1] <= f.DB_MAX_OUTPUT_PORT_TYPE
+
+
